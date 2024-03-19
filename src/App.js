@@ -325,7 +325,7 @@ const fullData = [
   {
     name: 'Andrew',
     Played: '7',
-    Won: '3',
+    Won: '4',
     Lost: '3',
     Drawn: '0',
     WinPercentage: '57',
